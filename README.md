@@ -2,6 +2,16 @@
 
 Bem-vindo ao Quiz PET Computação! Este é um aplicativo educativo de perguntas e respostas sobre computação projetado para divulgar o PET (Programa de Educação Tutorial) de Ciência da Computação da nossa universidade. Este aplicativo é uma ferramenta divertida e interativa para estudantes e entusiastas de computação aprimorarem seus conhecimentos e aprenderem mais sobre o mundo da computação.
 
+## Capturas de Tela 📷
+
+<table>
+  <tr>
+    <td><img src="assets/readme/TelaInicial.jpg" alt="Tela Inicial"></td>
+    <td><img src="assets/readme/Pergunta.jpg" alt="Pergunta"></td>
+    <td><img src="assets/readme/Resultado.jpg" alt="Resultado"></td>
+  </tr>
+</table>
+
 ## Funcionalidades 🧠
 
 - **Perguntas e Respostas**: Teste seus conhecimentos respondendo a uma variedade de perguntas relacionadas à computação, incluindo programação, hardware, software, sistemas operacionais e muito mais.
@@ -13,16 +23,6 @@ Bem-vindo ao Quiz PET Computação! Este é um aplicativo educativo de perguntas
 - **Modo de Jogo Desafiador**: Enfrente um modo de jogo cronometrado para desafiar suas habilidades de resposta rápida e pontuação mais alta.
 
 - **Divulgação do PET Computação**: O aplicativo inclui informações sobre o PET Computação, seus objetivos e como se envolver, ajudando a aumentar a conscientização sobre o programa.
-
-## Capturas de Tela 📷
-
-<table>
-  <tr>
-    <td><img src="assets/readme/TelaInicial.jpg" alt="Tela Inicial"></td>
-    <td><img src="assets/readme/Pergunta.jpg" alt="Pergunta"></td>
-    <td><img src="assets/readme/Resultado.jpg" alt="Resultado"></td>
-  </tr>
-</table>
 
 ## Como Contribuir 🤝
 
