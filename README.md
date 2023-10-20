@@ -16,13 +16,13 @@ Bem-vindo ao Quiz PET Computação! Este é um aplicativo educativo de perguntas
 
 - **Perguntas e Respostas**: Teste seus conhecimentos respondendo a uma variedade de perguntas relacionadas à computação, incluindo programação, hardware, software, sistemas operacionais e muito mais.
 
+- **Divulgação do PET Computação**: O aplicativo inclui informações sobre o PET Computação, seus objetivos e como se envolver, ajudando a aumentar a conscientização sobre o programa.
+
 ## Funcionalidades Futuras 🚀
 
 - **Categorias Temáticas**: Explore várias categorias de perguntas, tornando o aprendizado mais envolvente e abrangente.
 
 - **Modo de Jogo Desafiador**: Enfrente um modo de jogo cronometrado para desafiar suas habilidades de resposta rápida e pontuação mais alta.
-
-- **Divulgação do PET Computação**: O aplicativo inclui informações sobre o PET Computação, seus objetivos e como se envolver, ajudando a aumentar a conscientização sobre o programa.
 
 ## Como Contribuir 🤝
 
