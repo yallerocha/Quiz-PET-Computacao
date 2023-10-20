@@ -36,7 +36,7 @@ Se você deseja contribuir para este projeto, fique à vontade para fazer um for
 
 1. Faça o download do APK e realize a instalação no seu dispositivo Android.
 
-2. Ou, você pode clonar este repositório e compilar o aplicativo por conta própria usando o Android Studio.
+2. Ou, você pode clonar este repositório e compilar o aplicativo por conta própria usando o Flutter.
 
 ## Versão do Aplicativo 📅
 
