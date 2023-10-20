@@ -1,16 +1,48 @@
-# quiz_computacao
+# Quiz PET Computação - Jogo Educativo de Perguntas e Respostas
 
-A new Flutter project.
+Bem-vindo ao Quiz PET Computação! Este é um aplicativo educativo de perguntas e respostas sobre computação projetado para divulgar o PET (Programa de Educação Tutorial) de Ciência da Computação da nossa universidade. Este aplicativo é uma ferramenta divertida e interativa para estudantes e entusiastas de computação aprimorarem seus conhecimentos e aprenderem mais sobre o mundo da computação.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- **Perguntas e Respostas**: Teste seus conhecimentos respondendo a uma variedade de perguntas relacionadas à computação, incluindo programação, hardware, software, sistemas operacionais e muito mais.
 
-A few resources to get you started if this is your first Flutter project:
+## Funcionalidades Futuras
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Categorias Temáticas**: Explore várias categorias de perguntas, tornando o aprendizado mais envolvente e abrangente.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Modo de Jogo Desafiador**: Enfrente um modo de jogo cronometrado para desafiar suas habilidades de resposta rápida e pontuação mais alta.
+
+- **Divulgação do PET Computação**: O aplicativo inclui informações sobre o PET Computação, seus objetivos e como se envolver, ajudando a aumentar a conscientização sobre o programa.
+
+## Capturas de Tela
+
+![Tela Inicial](screenshots/tela_inicial.png)
+![Pergunta](screenshots/pergunta.png)
+![Resultado](screenshots/resultado.png)
+
+## Como Contribuir
+
+Se você deseja contribuir para este projeto, fique à vontade para fazer um fork do repositório e enviar pull requests com melhorias, correções de bugs ou novas perguntas. Juntos, podemos tornar este aplicativo ainda mais educativo e divertido.
+
+## Requisitos Técnicos
+
+- Dispositivo Android.
+
+## Como Instalar
+
+1. Faça o download do APK e realize a instalação no seu dispositivo Android.
+
+2. Ou, você pode clonar este repositório e compilar o aplicativo por conta própria usando o Android Studio.
+
+## Versão do Aplicativo
+
+Versão 0.1.0 (Beta)
+
+## Contato
+
+- Para relatar problemas ou fazer sugestões, sinta-se à vontade para abrir uma issue neste repositório.
+
+- Para entrar em contato diretamente com a equipe do PET Computação, envie um e-mail para pet@ccc.ufcg.edu.br.
+
+Agradeco por seu interesse e espero que você aproveite o Quiz PET Computação!
+
