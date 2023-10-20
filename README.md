@@ -16,9 +16,13 @@ Bem-vindo ao Quiz PET Computação! Este é um aplicativo educativo de perguntas
 
 ## Capturas de Tela 📷
 
-![Tela Inicial](assets/readme/TelaInicial.jpg)
-![Pergunta](assets/readme/Pergunta.jpg)
-![Resultado](assets/readme/Resultado.jpg)
+<table>
+  <tr>
+    <td><img src="assets/readme/TelaInicial.jpg" alt="Tela Inicial"></td>
+    <td><img src="assets/readme/Pergunta.jpg" alt="Pergunta"></td>
+    <td><img src="assets/readme/Resultado.jpg" alt="Resultado"></td>
+  </tr>
+</table>
 
 ## Como Contribuir 🤝
 
