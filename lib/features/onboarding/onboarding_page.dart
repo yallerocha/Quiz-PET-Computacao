@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:quiz_computacao/common/constants/AppColors.dart';
+import 'package:quiz_computacao/common/constants/app_colors.dart';
 
 class OnboardingPage extends StatefulWidget {
   const OnboardingPage({super.key});

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'package:quiz_computacao/common/constants/AppColors.dart';
+import 'package:quiz_computacao/common/constants/app_colors.dart';
 
 class FinalPage extends StatefulWidget {
   const FinalPage({super.key, required this.acertos});

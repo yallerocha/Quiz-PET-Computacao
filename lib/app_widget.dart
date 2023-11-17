@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
-import 'features/quiz/QuizPage.dart';
-import 'features/splash/SplashPage.dart';
-import 'features/onboarding/OnboardingPage.dart';
-import 'features/final/FinalPage.dart';
+import 'features/quiz/quiz_page.dart';
+import 'features/splash/splash_page.dart';
+import 'features/onboarding/onboarding_page.dart';
+import 'features/final/final_page.dart';
 
 class AppWidget extends StatelessWidget {
   const AppWidget({super.key});

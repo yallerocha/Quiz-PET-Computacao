@@ -1,8 +1,9 @@
+
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:quiz_computacao/common/constants/AppColors.dart';
-import 'Dados.dart';
+import 'package:quiz_computacao/common/constants/app_colors.dart';
+import 'dados.dart';
 
 class QuizPage extends StatefulWidget {
   const QuizPage({super.key});
